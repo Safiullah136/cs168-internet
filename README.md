@@ -9,5 +9,5 @@ Part B: handle cases of irrelevant packets, e.g. ICMP messages with the wrong ty
 
 In this project, you will write a distance-vector routing protocol. 
 
-3) Transport:
+3) Transport: In this project, you will implement a subset of the TCP protocol. Your implementation will provide reliability, though it won’t include congestion control.
 
